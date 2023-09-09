@@ -1,0 +1,7 @@
+{
+    "V_API": "5.131",
+	"ACCESS_TOKEN": "",
+	"POSTS_AMOUNT": 30,
+	"DB_PATH": "db/videos.sqlite",
+	"BULLETIN_BOARD_PATH": "BulletinBoard.json"
+}

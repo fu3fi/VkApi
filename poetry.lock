@@ -1,0 +1,21 @@
+[[package]]
+name = "riposte"
+version = "0.4.1"
+description = "Package for wrapping applications inside a tailored interactive shell."
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.extras]
+dev = ["wheel", "twine", "setuptools-scm", "pytest", "isort", "flake8", "black"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "3.11.0"
+content-hash = "5cdd3a350c7b4ca59f8057c846e4dfe7b5ad71499754f147a23a91af0876befc"
+
+[metadata.files]
+riposte = [
+    {file = "riposte-0.4.1-py3-none-any.whl", hash = "sha256:f2301259d59c78a216ee872a3732f2583d07c96e8d4d6d2cfac8e0df2983a3ab"},
+    {file = "riposte-0.4.1.tar.gz", hash = "sha256:bb8c31e4c9af9292f933ce3b92eed4fa7e878a28a00acc38b47e623284d5e0fb"},
+]
